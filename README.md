@@ -1,16 +1,16 @@
-# The Collection Pack 1.12
+# All The Forge
 ======
 
-This is the official repository and issue-tracker for The Collection Pack 1.12
+This is the official repository and issue-tracker for All The Forge
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/the-collection-pack/files  
++ https://www.curseforge.com/minecraft/modpacks/all-the-forge/files 
 + https://www.technicpack.net/modpack/the-112-ultimate-pack.1720458  
 + https://atlauncher.com/pack/TheCollectionPack  
   
 Need Help?
 ======
-When reporting an issue put the version number before the issue title! Such as [FULL][1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
+When reporting an issue put the version number before the issue title! Such as [PACKNAME] [1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
  
 You can also find us on Discord for help or just to chat:   
   
