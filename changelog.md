@@ -2,6 +2,52 @@
 # All The Forge - ATF | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.8.0 (Beta 9)</h1>
+
+**Updated:**
++ Minecraft Forge (36.0.13 → 36.0.15)
++ Collective (1.55 → 1.56)
++ CyclopsCore (1.10.1 → 1.11.1)
++ Corail Tombstone (6.3.0 → 6.3.1)
++ FancyMenu (1.7.0 → 1.7.1)
++ Geckolib (3.0.10 → 3.0.13)
++ Integrated Dynamics (1.3.0 → 1.4.3)
++ Konkrete (1.1.2 → 1.1.3)
++ Sophisticated Backpacks (1.3.4.136 → 2.1.1.153)
++ The Abyss 2 (1.1.0a → 1.2.0)
++ Not Enough Crashes (3.1.4 → 3.1.6)
++ TerraForged (0.2.1 → 0.2.5)
++ Titanium (3.2.5 → 3.2.6.1)
++ Zaero's MiniMap (21.2.0.1 → 21.2.0.2)
++ Architectury API (1.5.105 → 1.5.110)
++ Aquaculture 2 (2.1.12 → 2.1.13)
++ Collective (1.55 → 1.58)
++ Controllable (0.10.2 → 0.10.3)
++ Pam's HarvestCraft 2 - Food Core (1.0.1 → 1.0.2)
++ MineColonies (0.13.596 → 0.13.602)
++ RandomPatches (2.3.0 → 2.4.0)
++ Industrial Foregoing (3.2.9.1 → 3.2.9.2)
++ OptiFine (G7 Pre 4 → G7 Pre 7)
++ Oh The Biomes You"ll Go (1.1.9 → 1.1.10)
++ Quark (303 → 304)
+ 
+**Changed/Fixed**
++ Main Menu Tweaks
++ Fixed the loading screen images in the follow areas
+- World final creation screen
+- Download TerrainScreen
+
+**Added:**
++ Desired Servers
+
+
+**Removed:**
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge-6
+
+---------------------------------------------------------------------------------------------
 <h1>1.3.0-r</h1>
 
 **Updated:**
