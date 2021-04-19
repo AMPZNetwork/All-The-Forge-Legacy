@@ -2,6 +2,47 @@
 # All The Forge - ATF | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.4.0-r</h1>
+
+**Updated:**
++ Bewitchment (0.0.22.58 → 0.0.22.64)
++ Construct's Armory (1.2.5.9 → 1.2.5.10)
++ ExtraPlanets (0.7.1 → 0.7.2)
++ Extreme Reactors (0.4.5.67 → 0.4.5.68)
++ GunpowderLib (1.0 → 1.1)
++ Integration Foregoing (1.10 → 1.11)
++ It's the little things (1.0.2 → 1.0.3)
++ UniDict (3.0.4 → 3.0.8)
++ YUNG's Better Mineshafts (2.1.1 → 2.2.1)
++ ZeroCore 2 (0.1.2.8 → 0.1.2.9)
++ Konkrete (1.1.5 → 1.1.6)
+
+**Changed/Fixed**
++ Added our Minecraft Partner affiliate link under a new button called "Rent a Server!".
++ Fixed Forums button spelling text.
++ Updated PureBDcraft 128 texture pack.
++ Reduced Particels from All to Minimal.
++ Custom SkyStone plant seed.
++ Custom Agricraft seeds.
++ Moved Minimap to top right of screen.
+
+**Added:**
++ Smooth Scrolling Everywhere
++ Bad Wither No Cookie - Reloaded
++ FancyMenu 
+
+**Removed:**
++ Custom Main Menu 
++ MPUtils
++ MPUtils Basic Tools
++ Reliquary
++ Decocraft
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge
+
+---------------------------------------------------------------------------------
 <h1>1.3.0-r</h1>
 
 **Updated:**
