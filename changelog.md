@@ -2,6 +2,50 @@
 # All The Forge - ATF | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.4.1-r</h1>
+
+**Updated:**
++ Agricraft (1.12.0-a6 → 1.12.2-b2)
++ CraftPresence (1.7.6 → 1.8.1)
++ Clumps (5.0.2.6 → 5.0.2.7)
++ InfinityLib (1.12.0 → 1.12.1)
++ FoamFix (0.10.11 → 0.10.14)
++ EnderIO (5.2.66 → 5.3.70)
+
+**Changed/Fixed**
++ AppliedEnergistics2 now use RF for its PowerUnit.
++ Added the ability to mute the Main Menu.
++ Enabled Quark's Sign Edit.
++ Enabled Quark's Realistic World Type is now the default world.
++ Disabled Aether's startup warning.
++ Attempt to fix Bewitchment loot #1.
++ Re-designed MOJANG Loading Screen.
++ Renamed What's New to Patch Notes.
++ Renamed Rent a Server to Make a Server.
++ Updated Pack icon and logo.
++ Updated Discord logo.
+
+**Added:**
++ Custom Loading Screen
++ World Book
++ Mouse Tweaks
++ Morpheus
++ Wawla - What Are We Looking At
+
+
+**Removed:**
++ Smooth Scrolling Everywhere
++ FTB Backups
++ FTBLib
++ FTBUtilities
++ It's the little things
++ OptiFine
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge
+
+---------------------------------------------------------------------------------
 <h1>1.4.0-r</h1>
 
 **Updated:**
