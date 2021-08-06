@@ -2,6 +2,41 @@
 # All The Forge - ATF | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.5.0-r</h1>
+
+
+**Updated:**
++ FancyMenu (1.7.1 → 2.2.1)
++ Brandon's Core (2.4.19.214 → 2.4.20.162)
++ CraftPresence (1.8.1 → 1.8.2)
++ ExtraPlanets (0.7.2 → 0.7.3)
++ Macaw's Bridges (1.0.4 → 1.0.6b)
++ MJRLegends Lib (1.2.0 → 1.2.1)
++ Planet Progression (0.4.5 → 0.4.6)
++ PTRLib (1.0.4 → 1.0.5)
+
+
+**Changed/Fixed**
++ Re-Designed Main Menu.
+
++ Fixed A Startup Crash.
++ Replaced Faithful 32x texture pack with Compliance 32x.
++ Added a Suggestion button on the pause menu.
+
+
+**Added:**
++ 
+
+
+**Removed:**
++ Custom Loading Screen.
++ Crash to Main Menu
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge
+
+---------------------------------------------------------------------------------
 <h1>1.4.1-r</h1>
 
 **Updated:**
