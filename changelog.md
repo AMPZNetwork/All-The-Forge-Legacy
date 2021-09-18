@@ -2,6 +2,47 @@
 # All The Forge - ATF | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.5.1-r</h1>
+
+
+**Updated:**
++ AbyssalCraft (1.10.3 → 1.10.4)
++ AbyssalCraft Integration (1.11.2 → 1.11.3)
++ Draconic Evolution (2.3.27.353 → 2.3.28.354)
++ FancyMenu (2.2.1 → 2.2.2-1)
++ Konkrete (1.1.6 → 1.1.7)
++ Tesla Core Lib (1.0.17 → 1.0.18)
+
+**Changed/Fixed**
++ Added Microsoft Re-Auth support.
++ Added a button to the in-game menu for All The Forge 6 
++ Replaced Main Menu Github link.
++ Removed leftover configs.
++ Minor UI and Main Menu Tweaks.
+
+**Added:**
++ OAuth
++ Simple Discord RPC
++ Comforts
++ Macaw's Doors
++ Macaw's Windows
++ Corpse
+
+
+**Removed:**
++ ReAuth
++ Better Invalid Session
++ CraftPresence
++ RandomPatches
++ BetterFPS
++ Wasaila
++ Shatter
++ Realistic Terrain Generation
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge
+
+---------------------------------------------------------------------------------
 <h1>1.5.0-r</h1>
 
 
