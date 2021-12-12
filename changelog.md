@@ -1,7 +1,31 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # All The Forge - ATF | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>1.5.2-r</h1>
+
+
+**Updated:**
++ Minecraft Forge (14.23.5.2855 → 14.23.5.2859)
++ Simple Discord RPC (2.4 → 2.6.1)
+
+
+**Changed/Fixed**
++ Patch a recent security vulnerability affecting Minecraft.
++ Server Files are now using our new SIMPLE FILES setup.
++ Updated Server files (recommend all server owners to use the new files provided).
+
+**Added:**<br>
++ 
+
+
+**Removed:**<br>
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge
+
+---------------------------------------------------------------------------------
 <h1>1.5.1-r</h1>
 
 
