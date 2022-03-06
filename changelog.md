@@ -1,6 +1,70 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # All The Forge - ATF | Patch Notes
-<h2>Be sure to always backup your world(s) before updating!</h2>
+## Be sure to always backup your world(s) before updating!</h2>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.6.0-r</h1>
+
+<h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ Minecraft Forge (14.23.5.2859 → 14.23.5.28560)
++ BiblioCraft (2.4.5 → 2.4.6)
++ Biomes O' Plenty (7.0.1.2444 → 7.0.1.2445)
++ ExtraPlanets (0.7.3 → 0.7.4)
++ FancyMenu (2.2.2-1 → 2.6.4)
++ JustEnoughIDs (1.0.3-55 → 1.0.4)
++ Konkrete (1.1.7 → 1.3.3)
++ MixinBootstrap (1.0.5 → 1.1.0)
++ OAuth (1.06.1 → 1.06.2)
++ Simple Discord RPC (2.6.1 → 2.7.2)
++ UniDict (3.0.8 → 3.0.10)
++ WanionLib (2.5 → 2.9)
+
+
+**Changed/Fixed**
++ General Performace Improvements.
++ Fixed "More Packs" button URL.
++ Fixed Loading Screen background image.
++ Fixed a rare crash during startup.
++ Removed leftover configs.
++ Disabled Forge Emissive Items feature.
++ Renamed "All The Forge 6" button to "All The Forge 8".
++ Renamed "Mods" button to "Mod Options".
++ Moved Galacticraft oxygen indicator to the left side of the screen.
++ Re-built Discord Rich Presence file to so now it show a picture of the dimension a user is in.
++ Small main menu changes.
++ Updated tips.
+
+
+**Added:**
++ BisectHosting Server Integration Menu
++ Galacticraft Legacy
++ Tree Harvester
++ Collective
++ Yet Another Recipe Conflict Fixer
++ Jade
++ Load My Resources
+
+
+**Removed:**
++ Galacticraft
++ Galacticraft Planets
++ MicdoodleCore
++ Aether II
++ Resource Loader
++ SmoothFonts
++ stimmedcow : NoMoreRecipeConflict
++ Treecapitator Updated
++ AgriCraft
++ Mystical Agradditions
++ Mystical Agriculture
++ Wawla - What Are We Looking At
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
+
+---------------------------------------------------------------------------------
 
 <h1>1.5.2-r</h1>
 
@@ -22,8 +86,7 @@
 **Removed:**<br>
 + 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
 <h1>1.5.1-r</h1>
@@ -63,8 +126,7 @@ https://github.com/AMPZNetwork/All-The-Forge
 + Shatter
 + Realistic Terrain Generation
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
 <h1>1.5.0-r</h1>
@@ -98,8 +160,7 @@ https://github.com/AMPZNetwork/All-The-Forge
 + Crash to Main Menu
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
 <h1>1.4.1-r</h1>
@@ -142,8 +203,7 @@ https://github.com/AMPZNetwork/All-The-Forge
 + OptiFine
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
 <h1>1.4.0-r</h1>
@@ -183,8 +243,7 @@ https://github.com/AMPZNetwork/All-The-Forge
 + Decocraft
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
 <h1>1.3.0-r</h1>
@@ -228,8 +287,7 @@ https://github.com/AMPZNetwork/All-The-Forge
 + Chunk-Pregenerator
 + Millenaire
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
 <h1>1.2.0-r</h1>
@@ -268,8 +326,7 @@ https://github.com/AMPZNetwork/All-The-Forge
 **Removed:**
 + Orbis Library
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
 <h1>1.0.1-r</h1>
@@ -298,7 +355,6 @@ https://github.com/AMPZNetwork/All-The-Forge
  
 **Removed:**
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Forge
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
 
 ---------------------------------------------------------------------------------
