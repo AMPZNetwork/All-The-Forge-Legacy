@@ -32,7 +32,7 @@ just click yes to accept changes and your world should load fine.</h4>
 + Renamed "All The Forge 6" button to "All The Forge 8".
 + Renamed "Mods" button to "Mod Options".
 + Moved Galacticraft oxygen indicator to the left side of the screen.
-+ Re-built Discord Rich Presence file to so now it show a picture of the dimension a user is in.
++ Re-built Discord Rich Presence file so now it show a picture of the dimension a user is in.
 + Small main menu changes.
 + Updated tips.
 
