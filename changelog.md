@@ -2,6 +2,27 @@
 # All The Forge - ATF | Patch Notes
 ## Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.6.1-r</h1>
+
+<h4>⚠️⚠️ This pack has been discontinued.<br>
+Please use our long term supported pack (All The Forge 6). ⚠️⚠️</h4>
+
+**Updated:**
++ BisectHosting Server Integration Menu (1.1 → 1.3)
++ FancyMenu (2.6.4 → 2.7.0)
++ OAuth (1.06.2 → 1.06.4)
+
+**Changed/Fixed**
++ Fixed a crash when a user try's to delete as server.
++ Fixed Main Menu music behaviour.
++ Removed "Recommended Pack" button (get the new link on our Discord Server).
++ Removed the ability to re auth using a Mojang account.
++ QOL improvments.
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge)
+
+-----------------------------------------------------------------------------------
 <h1>1.6.0-r</h1>
 
 <h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
