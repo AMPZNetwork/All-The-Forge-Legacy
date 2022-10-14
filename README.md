@@ -3,7 +3,7 @@
 </p>
 
 ⚠️⚠️ This pack has been discontinued.<br>
-Please use our long term supported pack [All The Forge 6](https://www.curseforge.com/minecraft/modpacks/all-the-forge-6). ⚠️⚠️
+Please use our long term supported pack [All The Forge 8](https://www.curseforge.com/minecraft/modpacks/all-the-forge-8). ⚠️⚠️
 
 ======
 This is the official repository and issue-tracker for All The Forge
